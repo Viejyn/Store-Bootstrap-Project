@@ -9,7 +9,8 @@
 
 ### `Deploy`
 
-
+You can control this project from the link below.
+https://store-bootstrap-project.netlify.app
 
 ### `Screen`
 
